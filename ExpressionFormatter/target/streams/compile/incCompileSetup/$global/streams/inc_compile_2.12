@@ -1,0 +1,313 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+25 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/BinaryOperator$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/BinaryOperator.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Divide$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Divide.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Expression.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Id$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Id.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Minus$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Minus.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Multiply$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Multiply.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Number$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Number.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/OperatorType.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Plus$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Plus.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandType.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeBottom$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeBottom.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeSide$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeSide.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeTop$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeTop.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Layout$.class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Layout.class
+binary dependencies:
+4 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /Users/fang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> /Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+25 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> BinaryOperator
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> BinaryOperator$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Divide
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Divide$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Expression
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Id
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Id$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Minus
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Minus$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Multiply
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Multiply$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Number
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Number$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> OperatorType
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Plus
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Plus$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandType
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeBottom
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeBottom$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeSide
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeSide$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeTop
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeTop$
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Layout
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Layout$
+used names:
+157 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> &&
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> <init>
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> <repeated>
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> ==
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> A
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> AbstractFunction1
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> AbstractFunction3
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Any
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> AnyRef
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Array
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> BinaryOperator
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Boolean
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Char
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> ClassTag
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Divide
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Expression
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Id
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> IndexOutOfBoundsException
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Int
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Iterator
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Layout
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> MatchError
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Minus
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Multiply
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> None
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Nothing
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Number
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Object
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> OperatorType
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Option
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Plus
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Predef
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Product
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> ScalaRunTime
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Serializable
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Some
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Statics
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> String
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> StringContext
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> T
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> T0
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> T1
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> T2
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> T3
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> Tuple3
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> _$7
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> _hashCode
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> _root_
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> appendedWith
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> apply
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> asInstanceOf
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> eq
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> finalizeHash
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> isInstanceOf
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> layout
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> left
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> materializeClassTag
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> mix
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> n
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> name
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> op
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> opChar
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> package
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> reflect
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> right
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> runtime
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> s
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> scala
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> toString
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> topOn
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> typedProductIterator
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> ||
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> *
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> +
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ++
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> -
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> /
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> :+
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> <=
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> <byname>
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> <init>
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ==
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> A1
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Any
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> AnyRef
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Array
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ArrayOps
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> B
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Boolean
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> CanBuildFrom
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Class
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ClassTag
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandType
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeBottom
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeSide
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ExpandTypeTop
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Function1
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> GenIterable
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> GenTraversableOnce
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Int
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Layout
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> MatchError
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Nothing
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Object
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Predef
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> String
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> StringOps
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> T
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> That
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> Tuple2
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> WrappedArray
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> _$4
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> _$7
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> _1
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> _2
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> alignPos
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> apply
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> augmentString
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> canBuildFrom
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> div
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> e
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> expand
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> expandBottom
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> expandSide
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> expandTop
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> expandType
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> fill
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> head
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> height
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> heightAboveAlignPos
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> heightBelowAlignPos
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> leftMargin
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> length
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> map
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> margin
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> materializeClassTag
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> mkString
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> newBottom
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> newLeft
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> newRight
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> newText
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> newTop
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> numCols
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> numRows
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> ofRef
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> other
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> package
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> padding
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> refArrayOps
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> reflect
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> rightMargin
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> scala
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> text
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> width
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> wrapRefArray
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> zip
+product stamps:
+25 items
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/BinaryOperator$.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/BinaryOperator.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Divide$.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Divide.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandType.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeBottom$.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeBottom.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeSide$.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeSide.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeTop$.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/ExpandTypeTop.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Expression.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Id$.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Id.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Layout$.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Layout.class -> lastModified(1499305132000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Minus$.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Minus.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Multiply$.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Multiply.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Number$.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Number.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/OperatorType.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Plus$.class -> lastModified(1499364174000)
+/Users/fang/Work/ExpressionFormatter/target/scala-2.12/classes/Plus.class -> lastModified(1499364174000)
+source stamps:
+2 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> hash(458d229eeb910079be15f3429ccf1a90d59f31d6)
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> hash(304b897c323fce4582ce1ba98ea4fecc89b1f0e8)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459498886000)
+/Users/fang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/fang/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Product
+internal apis:
+2 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2EPmgQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAtc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEuc9U3QABm5vdGlmeXNxAH4ADCOkfIt0AAJJZHNxAH4ADG/ccrd0AARuYW1lc3EAfgAMG2krMHQABHdhaXRzcQB+AAwIflYbdAAOY29weSRkZWZhdWx0JDJzcQB+AAxH7sukdAANJGFzSW5zdGFuY2VPZnNxAH4ADJvMTfJ0AAFuc3EAfgAMMPpT93QADHByb2R1Y3RBcml0eXNxAH4ADAI/n8t0AAZlcXVhbHNzcQB+AAysCic0dAAGTnVtYmVyc3EAfgAM7Es9eXQADGFzSW5zdGFuY2VPZnNxAH4ADFV8QzF0AAZEaXZpZGVzcQB+AAx1twB8dAAMc3luY2hyb25pemVkc3EAfgAMfy8wt3QABGxlZnRzcQB+AAyEI+LkdAANJGlzSW5zdGFuY2VPZnNxAH4ADBW4dIB0AApFeHByZXNzaW9uc3EAfgAMFhLTe3QADkJpbmFyeU9wZXJhdG9yc3EAfgAMlu4ngHQACGNhbkVxdWFsc3EAfgAMdBxcqHQADXByb2R1Y3RQcmVmaXhzcQB+AAxMpRBbdAAITXVsdGlwbHlzcQB+AAxJtW9xdAAJbm90aWZ5QWxsc3EAfgAMhvqMFHQABFBsdXNzcQB+AAwHTWOUdAAMaXNJbnN0YW5jZU9mc3EAfgAM4NAwwnQABU1pbnVzc3EAfgAMovhtoHQABjxpbml0PnNxAH4ADOPwNuh0AAI9PXNxAH4ADGmEPq10AAVjbG9uZXNxAH4ADHh4fJp0AAxPcGVyYXRvclR5cGVzcQB+AAwh1ebAdAAGJGluaXQkc3EAfgAMX5NV03QADmNvcHkkZGVmYXVsdCQzc3EAfgAM5Tf/FHQABGNvcHlzcQB+AAz4VMhDdAAIdG9TdHJpbmdzcQB+AAz+CbW+dAACIT1zcQB+AAyuX9czdAAIZ2V0Q2xhc3NzcQB+AAzjRgZgdAAGbGF5b3V0c3EAfgAMcavIT3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMVNTAYHQAAm5lc3EAfgAMTPJwo3QAAmVxc3EAfgAMN0a5x3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBa+fLJ0AAVyaWdodHNxAH4ADK8DYxR0AAIjI3NxAH4ADADUqap0AAhmaW5hbGl6ZXNxAH4ADB7lCiZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADI1qnQ90AAhoYXNoQ29kZXNxAH4ADNHioD90AAJvcHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAlzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAFxAH4ARXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AjXNxAH4AiHVxAH4AbAAAAABzcQB+AIh1cQB+AGwAAAAAc3EAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3R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
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXKHgXwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsSzGrnQABXRvcE9uc3EAfgAMcJptRnQABm5vdGlmeXNxAH4ADCoS0rN0AAhhbGlnblBvc3NxAH4ADOh0U3p0AAZMYXlvdXRzcQB+AAwpuPVDdAAEd2FpdHNxAH4ADE9Nabd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMMHwLBXQABmVxdWFsc3NxAH4ADLd5KbZ0AAxhc0luc3RhbmNlT2ZzcQB+AAz2T1PtdAAMc3luY2hyb25pemVkc3EAfgAMCs2ounQADSRpc0luc3RhbmNlT2ZzcQB+AAzjYCF6dAAGaGVpZ2h0c3EAfgAM11S3bXQABHRleHRzcQB+AAywHQQZdAAJbm90aWZ5QWxsc3EAfgAMzreeo3QADGlzSW5zdGFuY2VPZnNxAH4ADDVKFTl0AAY8aW5pdD5zcQB+AAwCmJ36dAAMYXBwZW5kZWRXaXRoc3EAfgAMS2N3MnQAAj09c3EAfgAMdrho8HQABWNsb25lc3EAfgAMPfiHLHQACHRvU3RyaW5nc3EAfgAMY7V7/nQAAiE9c3EAfgAM26GB9nQACGdldENsYXNzc3EAfgAMvWya0HQAAm5lc3EAfgAMHwNUmXQABXdpZHRoc3EAfgAM0aJAD3QAAmVxc3EAfgAMD+BuL3QAAiMjc3EAfgAM+zkvuHQACGZpbmFsaXplc3EAfgAMS54nIHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABF4c2J0aS5hcGkuUHJpdmF0ZVOpYIEm6dU+AgAAeHIAE3hzYnRpLmFwaS5RdWFsaWZpZWSqtF3vVLFtGAIAAUwACXF1YWxpZmllcnQAFUx4c2J0aS9hcGkvUXVhbGlmaWVyO3hyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHNyABd4c2J0aS5hcGkuVGhpc1F1YWxpZmllcgFCoCfXAwaxAgAAeHIAE3hzYnRpLmFwaS5RdWFsaWZpZXKzeJSp69ZbJwIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0AApFeHBhbmRUeXBldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBvc3EAfgBqdXEAfgBIAAAAAHNxAH4AanVxAH4ASAAAAABzcQB+AGp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25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
+external apis:
+0 items
+source infos:
+2 items
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Expression.scala -> 
+AAAAAAAAAAA=
+/Users/fang/Work/ExpressionFormatter/src/main/scala/Layout.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXRWMcdN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9mYW5nL1dvcmsvRXhwcmVzc2lvbkZvcm1hdHRlci90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXRkRnSx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9mYW5nL1dvcmsvRXhwcmVzc2lvbkZvcm1hdHRlci90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
