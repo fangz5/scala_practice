@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circuit.iml" filepath="$PROJECT_DIR$/.idea/modules/circuit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circuit-build.iml" filepath="$PROJECT_DIR$/.idea/modules/circuit-build.iml" />
-    </modules>
-  </component>
-</project>
