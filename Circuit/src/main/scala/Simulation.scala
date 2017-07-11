@@ -75,17 +75,22 @@ abstract class BasicCircuitSimulation extends Simulation {
   abstract class Component
 
   class Wire extends Component {
-    var name: String = ""
+    private var probeFlag: Boolean = false
+    private var name: String = ""
     var signal: Boolean = false
     var listeners: List[Gate] = List[Gate]()
 
     def setSignal(s: Boolean): Unit = if (s != signal){
       signal = s
       postListeners()
-      if (name != "") println(name + ":" + currentTime + ":" + signal)
+      if (probeFlag) println(name + ":" + currentTime + ":" + signal)
     }
     def postListeners(): Unit = listeners.foreach(_.update())
     def addListener(g: Gate): Unit = listeners = g::listeners
+    def setProbe(name: String): Unit = {
+      this.name = name
+      probeFlag = true
+    }
   }
 
   // All subclasses of Circuit should have some wires as inputs, and some wires as outputs.

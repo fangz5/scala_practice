@@ -10,8 +10,8 @@ class CircuitTest extends FunSuite{
     import mysims.MySimulation._
 
     val input1, input2, sum, carry = new Wire
-    sum.name = "sum"
-    carry.name = "carry"
+    sum.setProbe("sum")
+    carry.setProbe("carry")
     HalfAdder(input1, input2, sum, carry)
     //Invertor(input1, sum)
     //Invertor(input2, carry)
